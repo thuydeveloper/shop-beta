@@ -15,12 +15,12 @@ Hello, everyone! Welcome to C-Shopping, a journey into the world of e-commerce u
 - Vercel Address: [https://c-shopping-three.vercel.app/](https://c-shopping-three.vercel.app/)
 
 
-Project gateway: [https://github.com/huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping).
+Project gateway: [https://github.com/thuydeveloper/c-shopping](https://github.com/thuydeveloper/c-shopping).
 
 
 **React Native mobile app application:**
 
-Project gateway: [https://github.com/huanghanzhilian/c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn).
+Project gateway: [https://github.com/thuydeveloper/c-shopping-rn](https://github.com/thuydeveloper/c-shopping-rn).
 
 If you find this helpful, please give me a Star. It will be a great encouragement.
 
@@ -173,7 +173,7 @@ functionality and responsibilities, making it easier for team members to underst
 1. Clone or download the repository by running the following command in the terminal:
 
     ```
-    git clone https://github.com/huanghanzhilian/c-shopping.git
+    git clone https://github.com/thuydeveloper/shop-beta.git
     ```
 
 2. Install project dependencies using npm or yarn:
@@ -267,33 +267,24 @@ I am a technology explorer, a eager learner, and a problem solver.
 <br/>
 我是一个技术的探索者，一个渴望学习的人，一个解决问题的人。
 
-- Email: [h1319639755@gmail.com](mailto:h1319639755@gmail.com)
+- Email: [timkiemnhanh.xyz@gmail.com](mailto:timkiemnhanh.xyz@gmail.com)
 - Twitter: [继小鹏](https://x.com/thuydeveloper)
-- Github: [Github](https://github.com/huanghanzhilian)
-- Blog: [继小鹏](https://blog.huanghanlian.com/)
+- Github: [Github](https://github.com/thuydeveloper)
+- Blog: [继小鹏](https://t.me/developervnn)
 - 我的中文渠道:
-  - 微博：[继小鹏1](https://weibo.com/u/5653497957)
+  - 微博：[继小鹏1](https://t.me/developervnn)
   - 微信公众号：「继小鹏的博客」
-  - 掘金：[继小鹏](https://juejin.cn/user/2119514150414686)
-  - 知乎：[继小鹏](https://www.zhihu.com/people/huang-han-zhi-lian)
-  - 即刻：[继小鹏](https://web.okjike.com/u/BA3424F7-4D6E-4A2C-BA7E-138B616EED05)
-  - bilibili：[继小鹏](https://space.bilibili.com/191128853)
+  - 掘金：[继小鹏](https://github.com/thuydeveloper)
+  - 知乎：[继小鹏](https://github.com/thuydeveloper)
+  - 即刻：[继小鹏](https://t.me/developervnn)
+  - bilibili：[继小鹏](https://t.me/developervnn)
 
-### WeChat Official Account | My WeChat
-
-Follow our WeChat Official Account for more information. Feel free to provide any feedback or suggestions by opening an issue or leaving a message on the Official Account. You're also welcome to add me on WeChat for further communication.
-
-| My WeChat Official Account | My WeChat |
-| -------------------------- | --------- |
-| <img alt="Ji Xiao Peng Official Account" src="https://www.cheerspublishing.com/uploads/article/4632461d-0d43-4378-bcf7-bb32bf0de950.jpeg" width="150"> | <img alt="My WeChat" src="https://www.cheerspublishing.com/uploads/article/6f041fb6-2141-49d8-b20b-6e989687bf9a.png" width="150"> |
-
----
 
 ## License
 
-[MIT](https://github.com/huanghanzhilian/c-shopping/blob/main/LICENSE)
+[MIT](https://github.com/thuydeveloper/c-shopping/blob/main/LICENSE)
 
-Copyright (c) 2024 Jipeng Huang
+Copyright (c) 2024
 
 ---
 

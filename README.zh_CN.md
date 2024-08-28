@@ -21,11 +21,11 @@
 - docker 部署地址：[http://shop.huanghanlian.com/](http://shop.huanghanlian.com/)
 - vercel 部署地址：[https://c-shopping-three.vercel.app/](https://c-shopping-three.vercel.app/)
 
-项目传送门: [https://github.com/huanghanzhilian/c-shopping](https://github.com/huanghanzhilian/c-shopping)
+项目传送门: [https://github.com/thuydeveloper/c-shopping](https://github.com/thuydeveloper/c-shopping)
 
 **React Native 移动app应用:**
 
-项目传送门: [https://github.com/huanghanzhilian/c-shopping-rn](https://github.com/huanghanzhilian/c-shopping-rn)
+项目传送门: [https://github.com/thuydeveloper/c-shopping-rn](https://github.com/thuydeveloper/c-shopping-rn)
 
 ## 项目介绍
 
@@ -218,7 +218,7 @@
 1. 通过在终端运行以下命令克隆或下载存储库:
 
 	```
-	git clone https://github.com/huanghanzhilian/c-shopping.git
+	git clone https://github.com/thuydeveloper/shop-beta.git
 	```
 2. 使用npm或yarn安装项目依赖项:
 	```
@@ -292,17 +292,17 @@ I am a technology explorer, a eager learner, and a problem solver.
 <br/>
 我是一个技术的探索者，一个渴望学习的人，一个解决问题的人。
 
-- Email: [h1319639755@gmail.com](mailto:h1319639755@gmail.com)
+- Email: [timkiemnhanh.xyz@gmail.com](mailto:timkiemnhanh.xyz@gmail.com)
 - Twitter: [继小鹏](https://x.com/thuydeveloper)
-- Github: [Github](https://github.com/huanghanzhilian)
-- Blog: [继小鹏](https://blog.huanghanlian.com/)
+- Github: [Github](https://github.com/thuydeveloper)
+- Blog: [继小鹏](https://t.me/developervnn)
 - 我的中文渠道:
-  - 微博：[继小鹏1](https://weibo.com/u/5653497957)
+  - 微博：[继小鹏1](https://t.me/developervnn)
   - 微信公众号：「继小鹏的博客」
-  - 掘金：[继小鹏](https://juejin.cn/user/2119514150414686)
-  - 知乎：[继小鹏](https://www.zhihu.com/people/huang-han-zhi-lian)
-  - 即刻：[继小鹏](https://web.okjike.com/u/BA3424F7-4D6E-4A2C-BA7E-138B616EED05)
-  - bilibili：[继小鹏](https://space.bilibili.com/191128853)
+  - 掘金：[继小鹏](https://github.com/thuydeveloper)
+  - 知乎：[继小鹏](https://github.com/thuydeveloper)
+  - 即刻：[继小鹏](https://t.me/developervnn)
+  - bilibili：[继小鹏](https://t.me/developervnn)
 
 ### 公众号｜我的微信
 
@@ -315,6 +315,6 @@ I am a technology explorer, a eager learner, and a problem solver.
 
 ## License
 
-[MIT](https://github.com/huanghanzhilian/c-shopping/blob/main/LICENSE)
+[MIT](https://github.com/thuydeveloper/c-shopping/blob/main/LICENSE)
 
 Copyright (c) 2024 Jipeng Huang
