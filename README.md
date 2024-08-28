@@ -11,16 +11,16 @@ Hello, everyone! Welcome to C-Shopping, a journey into the world of e-commerce u
 
 **Project Live Demo Links:**
 
-- Docker Deployment Address: [http://shop.huanghanlian.com/](http://shop.huanghanlian.com/)
-- Vercel Address: [https://c-shopping-three.vercel.app/](https://c-shopping-three.vercel.app/)
+- Docker Deployment Address: [https://ominous-invention-jg79r4vwg7rcpg6p-3000.app.github.dev/](https://ominous-invention-jg79r4vwg7rcpg6p-3000.app.github.dev/)
+- Vercel Address: [https://ominous-invention-jg79r4vwg7rcpg6p-3000.app.github.dev/](https://ominous-invention-jg79r4vwg7rcpg6p-3000.app.github.dev/)
 
 
-Project gateway: [https://github.com/thuydeveloper/c-shopping](https://github.com/thuydeveloper/c-shopping).
+Project gateway: [https://github.com/thuydeveloper/shop-beta](https://github.com/thuydeveloper/shop-beta).
 
 
 **React Native mobile app application:**
 
-Project gateway: [https://github.com/thuydeveloper/c-shopping-rn](https://github.com/thuydeveloper/c-shopping-rn).
+Project gateway: [https://github.com/thuydeveloper/shop-beta-rn](https://github.com/thuydeveloper/shop-beta-rn).
 
 If you find this helpful, please give me a Star. It will be a great encouragement.
 
@@ -282,7 +282,7 @@ I am a technology explorer, a eager learner, and a problem solver.
 
 ## License
 
-[MIT](https://github.com/thuydeveloper/c-shopping/blob/main/LICENSE)
+[MIT](https://github.com/thuydeveloper/shop-beta/blob/main/LICENSE)
 
 Copyright (c) 2024
 

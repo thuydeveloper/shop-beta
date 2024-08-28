@@ -18,14 +18,14 @@
 
 **项目在线演示地址：**
 
-- docker 部署地址：[http://shop.huanghanlian.com/](http://shop.huanghanlian.com/)
-- vercel 部署地址：[https://c-shopping-three.vercel.app/](https://c-shopping-three.vercel.app/)
+- docker 部署地址：[https://ominous-invention-jg79r4vwg7rcpg6p-3000.app.github.dev/](https://ominous-invention-jg79r4vwg7rcpg6p-3000.app.github.dev/)
+- vercel 部署地址：[https://ominous-invention-jg79r4vwg7rcpg6p-3000.app.github.dev/](https://ominous-invention-jg79r4vwg7rcpg6p-3000.app.github.dev/)
 
-项目传送门: [https://github.com/thuydeveloper/c-shopping](https://github.com/thuydeveloper/c-shopping)
+项目传送门: [https://github.com/thuydeveloper/shop-beta](https://github.com/thuydeveloper/shop-beta)
 
 **React Native 移动app应用:**
 
-项目传送门: [https://github.com/thuydeveloper/c-shopping-rn](https://github.com/thuydeveloper/c-shopping-rn)
+项目传送门: [https://github.com/thuydeveloper/shop-beta-rn](https://github.com/thuydeveloper/shop-beta-rn)
 
 ## 项目介绍
 
@@ -315,6 +315,6 @@ I am a technology explorer, a eager learner, and a problem solver.
 
 ## License
 
-[MIT](https://github.com/thuydeveloper/c-shopping/blob/main/LICENSE)
+[MIT](https://github.com/thuydeveloper/shop-beta/blob/main/LICENSE)
 
 Copyright (c) 2024 Jipeng Huang
