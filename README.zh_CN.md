@@ -304,14 +304,6 @@ I am a technology explorer, a eager learner, and a problem solver.
   - 即刻：[继小鹏](https://t.me/developervnn)
   - bilibili：[继小鹏](https://t.me/developervnn)
 
-### 公众号｜我的微信
-
-关注公众号获得更多资讯，有任何意见或建议都欢迎提issue，或者到公众号留言；也欢迎加我微信交流。
-
-|我的公众号|我的微信|
-|--|--|
-|<img alt="继小鹏公众号" src="https://www.cheerspublishing.com/uploads/article/4632461d-0d43-4378-bcf7-bb32bf0de950.jpeg" width="150">|<img alt="我的微信" src="https://www.cheerspublishing.com/uploads/article/6f041fb6-2141-49d8-b20b-6e989687bf9a.png" width="150">|
-
 
 ## License
 
